@@ -6,6 +6,8 @@
 
 f
 分支dev
-barnch master
+
+branch master
+
  }
 }
